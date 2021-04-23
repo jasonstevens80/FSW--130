@@ -1,0 +1,30 @@
+* {
+  background-color: lightgray;
+  color: navy;
+  font-family: sans-serif;
+}
+
+#myform {
+  text-align: center;
+}
+
+input {
+  background-color: white;
+}
+
+p {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#contacts {
+  text-align: center;
+}
+
+#submitButton {
+  background-color: rgb(151, 156, 163);
+}
+
+#deleteButton {
+  background-color: rgb(245, 117, 117);
+}
