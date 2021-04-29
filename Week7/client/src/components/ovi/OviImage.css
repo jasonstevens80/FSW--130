@@ -1,0 +1,38 @@
+.ovi-bg {
+    margin: 0 auto;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../images/ovi.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  @media (max-width: 1160px) {
+    .ovi-bg {
+      height: 80vw;
+    }
+  } 
+  @media (max-width: 900px) {
+    .ovi-bg {
+      height: 120vw;
+    }
+  } 
+  @media (max-width: 575px) {
+    .ovi-bg {
+      height: 190vw;
+    }
+  } 
+  @media (max-width: 495px) {
+    .ovi-bg {
+      height: 240vw;
+    }
+  } 
+  @media (max-width: 395px) {
+    .ovi-bg {
+      height: 260vw;
+    }
+  } 

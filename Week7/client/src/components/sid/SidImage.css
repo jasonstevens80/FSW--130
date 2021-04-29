@@ -1,0 +1,43 @@
+.sid-bg {
+    margin: 0 auto;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../images/sid.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  @media (max-width: 1160px) {
+    .sid-bg {
+      height: 80vw;
+    }
+  } 
+  @media (max-width: 900px) {
+    .sid-bg {
+      height: 120vw;
+    }
+  } 
+  @media (max-width: 575px) {
+    .sid-bg {
+      height: 190vw;
+    }
+  } 
+  @media (max-width: 495px) {
+    .sid-bg {
+      height: 240vw;
+    }
+  } 
+  @media (max-width: 405px) {
+    .btn-2 btn-secondary {
+      font-size: 1rem;
+    }
+  } 
+  @media (max-width: 395px) {
+    .sid-bg {
+      height: 260vw;
+    }
+  } 
