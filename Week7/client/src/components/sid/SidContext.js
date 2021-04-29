@@ -7,7 +7,7 @@ class SidContextProvider extends Component {
       {
         factOne: "Info",
         factTwo: "D.O.B. 8/7/87",
-        factThree: "Cole, Harbour, NS, CAN",
+        factThree: "Cole Harbour, NS, CAN",
         forth: "Center",
       },
       {
